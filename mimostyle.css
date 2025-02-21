@@ -14,10 +14,12 @@ a {
   font-size: 20px;
   color: rgb(0, 0, 0);
   padding: 10px;
-  border-radius: 10px;
-  margin: 10px;
+  border-radius: 100px;
+  margin: 10 auto;
   display:block;
   text-decoration: none;
+
+  max-width: 600px;
 }
 
 img {
