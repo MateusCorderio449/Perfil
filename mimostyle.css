@@ -13,13 +13,15 @@ a {
   background-color: rgb(255, 255, 255);
   font-size: 20px;
   color: rgb(0, 0, 0);
-  padding: 10px;
-  border-radius: 100px;
-  margin: 10 auto;
+  padding: 18px;
+  border-radius: 10px;
+  margin:  auto;
   display:block;
   text-decoration: none;
+   max-height: 50px;
+  max-width: 350px;
+  margin-bottom: 30px;
 
-  max-width: 600px;
 }
 
 img {
